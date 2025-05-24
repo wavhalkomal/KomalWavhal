@@ -1,9 +1,9 @@
 # KomalWavhal
-Hi! I'm Komal Wavhal
-A Technology Enthusiast. I ♥ to Code & Make cool stuff.
-A Software Developer Who loves to learn and try new tools & technologies passionately
+# Hi! I'm Komal Wavhal
+# A Technology Enthusiast. I ♥ to Code & Make cool stuff.
+# A Software Developer who loves to learn and try new tools & technologies passionately
 
-💼 About Me
+# 💼 About Me
 
 I'm a Machine Learning enthusiast and Automation Specialist with over 7 years of experience delivering impactful AI/ML and RPA solutions across finance, healthcare, and consulting sectors. My journey has taken me from developing predictive models and intelligent automation for Fortune 500 clients to building real-time AI systems that address public safety, mental health, and financial decision-making.
 
@@ -11,18 +11,18 @@ I'm a Machine Learning enthusiast and Automation Specialist with over 7 years of
 In addition to serving as a Recitation Leader at Stevens Institute of Technology, I also work on different research projects. My current coursework includes Artificial Intelligence, Data Analytics and Machine Learning, Natural Language Processing, Deep Learning, Cyber Security, Web Mining, Data Mining, and Statistical Machine Learning. 
 
 
-🔭 Currently Working on...
+# 🔭 Currently Working on...
 
 As a Research Assistant at Stevens Institute of Technology, I am developing advanced machine learning methodologies for the classification of high-dimensional spectral data in bone tissue research. My work focuses on designing protocols for data preprocessing, feature selection, and model training using platforms like Solo + MIA (Eigenvector Research). This research aims to uncover insights into the material and compositional properties of bone, contributing to early diagnosis and treatment strategies in biomedical science.
 
-⚙️ Core Strengths:
+# ⚙️ Core Strengths:
 
 •	Machine Learning | Deep Learning | NLP | Predictive Analytics
 •	Automation (UiPath, Python, Selenium) | Statistical Modeling
 •	Data Visualization (Tableau, Power BI) | Cloud Platforms (AWS, GCP)
 •	Full-stack ML/AI system development and model deployment
 
-🏆 Awards
+# 🏆 Awards
 
 Recognized with multiple awards, including the JPMorgan Innovation Award, Corporate Excellence Award, and Impact Award, I’ve consistently led high-impact projects, such as automating compliance pipelines, forecasting financial sentiment with NLP, and building a real-time AI-powered crime prediction platform.
 
