@@ -1,7 +1,6 @@
-# KomalWavhal
 # Hi! I'm Komal Wavhal
-# A Technology Enthusiast. I ♥ to Code & Make cool stuff.
-# A Software Developer who loves to learn and try new tools & technologies passionately
+A Technology Enthusiast. I ♥ to Code & Make cool stuff.
+A Software Developer who loves to learn and try new tools & technologies passionately
 
 # 💼 About Me
 
